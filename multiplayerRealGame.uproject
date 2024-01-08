@@ -10,6 +10,16 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "MotoricaStudio",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"Content/MotoricaStudio_v0-2-0_UE5-3-2"
 	]
 }
